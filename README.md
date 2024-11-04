@@ -33,3 +33,4 @@ A simple Node.js application that allows users to manage and track employees, th
    ```bash
    git clone https://github.com/yourusername/employee-tracker.git
    cd employee-tracker
+   node ./index.js
