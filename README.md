@@ -2,6 +2,10 @@
 
 A simple Node.js application that allows users to manage and track employees, their roles, and departments within an organization. The application utilizes PostgreSQL as the database to store and retrieve information.
 
+#DEMO VIDEO 
+
+https://www.youtube.com/watch?v=huXd9H6FXfY
+
 ## Table of Contents
 
 - [Features](#features)
